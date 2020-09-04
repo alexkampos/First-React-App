@@ -1,4 +1,4 @@
-Visit "https://alexkampos.github.io/First-React-App/" to check it out.
+Visit https://alexkampos.github.io/First-React-App/ to check it out.
 
 
 Assignment Excersice:
