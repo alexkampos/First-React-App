@@ -1,0 +1,107 @@
+.header-middle-section {
+    flex: 0 1 80px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    background-color: #17354d;
+  }
+
+  .check-in-out {
+      flex: 0 1 30%;
+      background-color: white;
+      margin-right: 10px;
+      position: relative;
+      display: flex;
+  }
+
+  .room-size {
+      flex: 0 1 40%;
+      background-color: white;
+      padding: 5px;
+  }
+
+  .colored-line {
+      height: 100%;
+      width: 4%;
+  }
+
+  .calendar-image-container {
+        width: 15%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+  }
+
+  .calendar-image-container img {
+      height: 3vh;
+  }
+
+  .back-image-container {
+    width: 10%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.back-image-container img {
+    height: 3vh;
+}
+
+.next-image-container {
+    width: 10%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.next-image-container img {
+    height: 3vh;
+}
+
+  .container {
+      height: 100%;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      padding-left: 10px;
+  }
+
+  .in-or-out {
+      font-size: 15px;
+      color: rgb(128, 128, 128);
+      margin-left: 5px;
+  }
+
+  .date-picker {
+      border: 0;
+      cursor: pointer;
+      background-color: white;
+      font-size: 13px;
+      font-weight: bolder;
+  }
+
+  .my-custom-select {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: dotted black 2px;
+  }
+
+  .my-custom-select select {
+    /* -webkit-appearance: menulist-button; */
+    height: 100%;
+    width: 70%;
+    padding: 10px;
+    cursor: pointer;
+    border: 0;
+    outline: none;
+  }
+
+  .room-size-options {
+      font-size: 20px;
+  }
