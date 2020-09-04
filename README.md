@@ -1,3 +1,6 @@
+Visit "https://alexkampos.github.io/First-React-App/" to check it out.
+
+
 Assignment Excersice:
 
 Implementation of a travel agency's destination search page based on Json data
