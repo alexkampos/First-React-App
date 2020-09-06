@@ -1,0 +1,36 @@
+.search {
+    flex: 0 1 50px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 5px 0;
+    background-color: #17354d;
+  }
+
+.search-bar {
+    width: 78%;
+    height: auto;
+    padding-left: 45px;
+    font-size: 20px;
+    border-radius: 5px 0 0 5px;
+    border: 0;
+  }
+  
+  .search-button {
+    height: auto;
+    width: 20%;
+    background-color: #438aba;
+    cursor: pointer;
+    color: white;
+    font-size: 15px;
+    border-radius: 0 5px 5px 0;
+    border: 0;
+  }
+  
+  .search-image {
+    position: absolute;
+    left: 20px;
+    top: 14px;
+    height: 20px;
+  }

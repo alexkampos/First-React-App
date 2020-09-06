@@ -1,0 +1,24 @@
+* {
+  /* border: solid black 1px; */
+  box-sizing: border-box; 
+  font-family: 'FontAwesome', 'Second Font name',Helvetica ;
+}
+
+html, body {
+  margin: 0;
+}
+
+html {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  width: 80%;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
