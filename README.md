@@ -36,4 +36,5 @@ A Travel Agency destination search interface based on Json data where following 
 
 ## Technology & Tools
 
-<a href="https://reactjs.org/">ReactJS</a>
+<a href="https://reactjs.org/">ReactJS</a> <br>
+<a href="https://code.visualstudio.com/">Visual Studio Code IDE</a>
